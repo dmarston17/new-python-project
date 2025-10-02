@@ -1,0 +1,8 @@
+pytest
+pre-commit
+black
+isort
+ruff
+fastapi
+uvicorn[standard]
+sqlmodel
